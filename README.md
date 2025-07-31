@@ -1,23 +1,27 @@
-# 📚 Jiashuo's Teaching Resource Archive
+# HTML + CSS Teaching Materials
 
-This repository collects teaching materials, sample code, and project demos from courses I have delivered as a college lecturer since 2024.
+These are the weekly examples and demo files I used in my course *"Web Design and Development"*.
 
-## 📘 Courses Covered
+## 🗂 Weekly Topics
 
-- **Web Development (HTML + CSS)**  
-  Hands-on examples from basic tags to layout design, including a student-facing mini project.
+| Week | Topic | File |
+|------|-------|------|
+| 1 | Basic HTML Tags (headings, paragraphs, breaks) | `week1-basic-tags.html` |
+| 2 | Images and Links | `week2-links-images.html` |
+| 3 | Box Model and Layout | `week3-box-model.html` |
+| 4 | Final Demo Project: Movie Introduction Page | `project-movie-intro.html` |
 
-- **C Programming**  
-  Step-by-step examples from syntax to sorting algorithms, suitable for beginners.
+## 📌 Common Mistakes
 
-- **Information Security Standards & Law**  
-  Policy summaries, in-class exercises, and exam question samples.
+- Students often forget to close tags or nest them correctly.
+- Relative vs absolute paths for images need to be explained repeatedly.
+- Use of inline styles vs external CSS: most students default to inline initially.
 
-- **(Upcoming)**: Computer Networks, PHP Programming
+## 💡 Notes
 
----
+- Files are simplified for beginner understanding.
+- Project code may be used in student assignments with proper attribution.
 
-## 🛠 Structure
 
 Each folder represents a course I taught. Inside each folder:
 - ✅ Source code or materials used in class
